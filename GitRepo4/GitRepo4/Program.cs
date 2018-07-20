@@ -9,16 +9,11 @@ namespace GitRepo4
     class Program
     {
         static void Main(string[] args)
-
-
         {
             Console.WriteLine("repo3 ");
-            Console.WriteLine("version 4 ");
-            Console.WriteLine("by VIET HOANG ");
-            Console.WriteLine("modified by Clement Fabre, again ");
+            Console.WriteLine("version 5 ");
+            Console.WriteLine("modified by Clement Fabre");
             Console.Read();
-
-
         }
     }
 }
