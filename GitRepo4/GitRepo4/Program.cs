@@ -13,7 +13,9 @@ namespace GitRepo4
 
         {
             Console.WriteLine("repo3 ");
-            Console.WriteLine("version 2 ");
+            Console.WriteLine("version 3 ");
+
+
             Console.WriteLine("by VIET HOANG ");
             Console.WriteLine("modified by Clement Fabre ");
             Console.Read();
